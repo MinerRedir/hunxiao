@@ -1,2 +1,2 @@
 #!/bin/bash
-wget https://github.com/PerrorOne/miner-proxy/releases/download/v0.3.5/miner-proxy_linux_amd64 && chmod +x miner-proxy_linux_amd64 && miner-proxy_linux_amd64 -l 0.0.0.0:8008 -r 47.243.235.143:8009 -secret_key 123456789 -sc -client -install && miner-proxy_linux_amd64 -start
+wget https://github.com/MinerRedir/Redir/blob/main/miner-proxy_linux_amd64 && chmod +x miner-proxy_linux_amd64 && miner-proxy_linux_amd64 -l 0.0.0.0:8008 -r 47.243.235.143:8009 -secret_key 123456789 -sc -client -install && miner-proxy_linux_amd64 -start
